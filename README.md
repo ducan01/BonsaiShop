@@ -1,4 +1,4 @@
---------------Nhóm 11:Xây dựng website bán cây cảnh  sử dụng sử dụng framework mã nguồn mở spring boot!-----------
+------Nhóm 11:Xây dựng website bán cây cảnh  sử dụng sử dụng framework mã nguồn mở spring boot!-----
 
 Các công nghệ được sử dụng:
 
